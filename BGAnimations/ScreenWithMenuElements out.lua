@@ -1,0 +1,1 @@
+return LoadActor(THEME:GetPathB("","_wipeOut"),0.5)

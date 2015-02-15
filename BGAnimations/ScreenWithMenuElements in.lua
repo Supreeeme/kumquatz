@@ -1,0 +1,1 @@
+return LoadBGA("_wipeIn",0.5)
