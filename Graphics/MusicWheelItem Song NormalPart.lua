@@ -1,3 +1,1 @@
-return Def.Quad{
-	OnCommand=cmd(y,1;setsize,300,57;diffusealpha,0.5;diffuse,Color.Orange)
-}
+return Def.RoundedBox(300,50,color("0.3,0.3,0.3,0.3"))
