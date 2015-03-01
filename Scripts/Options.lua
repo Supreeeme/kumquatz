@@ -1,6 +1,6 @@
 function ParticlesTM()
 	local t = {
-		Name = "Title Menu Particles",
+		Name = "TM",
 		OneChoiceForAllPlayers=true,
 		ExportOnChange=false,
 		LayoutType="ShowAllInRow",
@@ -22,7 +22,7 @@ end
 
 function ParticlesPOS()
 	return {
-		Name = "Service Options Particles",
+		Name = "OS",
 		OneChoiceForAllPlayers=true,
 		ExportOnChange=false,
 		LayoutType="ShowAllInRow",
